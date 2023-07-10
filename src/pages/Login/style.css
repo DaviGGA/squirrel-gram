@@ -3,23 +3,7 @@
         width: 100%;
     }
 
-    .white-card {
-      width: 100%;
-    }
-
-    .title {
-        margin-top: 11.375rem;
-        font-size: 2rem;
-        text-align: center;
-    }
-
-    .sub-title {
-        font-size: 0.875rem;
-        color: #555555;
-        text-align: center;
-    }
-  }
-
+}
   @media only screen and (min-width: 768px) {
     .container {
         width: 93.75%;
@@ -28,12 +12,7 @@
         border-radius: .5rem;
     }
 
-    .white-card {
-      width: 50%;
-      border-radius: 4px;
-      background-color: #fff;
-  }
-  }
+}
 
 
 

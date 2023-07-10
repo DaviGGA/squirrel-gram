@@ -1,0 +1,21 @@
+@media only screen and (max-width: 768px) {
+    .input {
+        border: 1px solid #dadada;
+        border-radius: 4px;
+        margin-top: 1.5rem;
+        height: 2.75rem;
+        padding-left: .75rem;
+        width: 100%;
+
+    }
+
+    .input::placeholder {
+        font-size: 1.175rem;
+        color: #808080;
+    }
+   
+  }
+
+@media only screen and (min-width: 769px) {
+
+}
