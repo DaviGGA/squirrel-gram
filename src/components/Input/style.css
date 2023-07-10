@@ -3,7 +3,9 @@
     border: 1px solid #dadada;
     border-radius: 4px;
     margin-top: 1.5rem;
+    outline: none;
     height: 2.75rem;
+    font-size: 1.175rem;
     padding-left: .75rem;
     width: 100%;
 
