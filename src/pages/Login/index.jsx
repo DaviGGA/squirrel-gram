@@ -1,11 +1,16 @@
 import './style.css'
 import LoginWhiteCard from '../../components/LoginWhiteCard';
+import PurpleCard from '../../components/PurpleCard';
 
 function Login() {
     return (
-       <div className='container'>
-            <LoginWhiteCard/>
-       </div>
+        <div className="wrapper">
+            <div className='container'>
+                <PurpleCard/>
+                <LoginWhiteCard/>
+            </div>
+        </div>
+        
     )
 }
 

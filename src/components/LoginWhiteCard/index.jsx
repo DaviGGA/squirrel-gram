@@ -18,8 +18,8 @@ function LoginWhiteCard() {
                 <Input type="password" placeholder="Senha"/>
                 <a>Esqueci minha senha</a>
                 <Button className='login-button' text="Login"/>
-                <p className='create-account'>Não possui conta?<a> Clique aqui</a></p>
             </form>
+            <p className='create-account'>Não possui conta?<a> Clique aqui</a></p>
             
 
         </div>
