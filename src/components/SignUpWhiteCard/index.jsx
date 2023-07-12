@@ -1,4 +1,4 @@
-import './style.css'
+import '../../css/login-signup-components.css'
 import Input from '../Input';
 import Button from '../Button';
 

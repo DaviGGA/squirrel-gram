@@ -1,4 +1,4 @@
-import './style.css'
+import '../../css/login-signup-pages.css'
 import SignUpWhiteCard from '../../components/SignUpWhiteCard'
 import PurpleCard from '../../components/PurpleCard';
 
